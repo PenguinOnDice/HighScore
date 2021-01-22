@@ -1,0 +1,3 @@
+- Kondis
+- Styrke
+- Teknikk
