@@ -1,2 +1,2 @@
-- Grei feilfritt, en sang, eller en del av en.
--   
+- Grei å synge veldig feilfritt, en sang, eller en del av en.
+- Skriv en sang eller et dikt
